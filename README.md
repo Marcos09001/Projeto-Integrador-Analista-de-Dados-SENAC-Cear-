@@ -45,10 +45,10 @@ Filtros para cruzamento com outros fatores (tipo de escola, método de estudo, e
 
 Principais Insights:
 
-Existe uma relação positiva entre a escolaridade dos pais e o desempenho acadêmico dos estudantes
-Estudantes cujos pais possuem ensino superior ou pós-graduação apresentam, em média, melhores resultados
-Mesmo ao cruzar com outros fatores, a escolaridade familiar permanece um fator estrutural relevante
-Embora não seja determinante isolado, a escolaridade dos pais influencia significativamente o desempenho escolar
+Existe uma relação positiva entre a escolaridade dos pais e o desempenho acadêmico dos estudantes.
+Estudantes cujos pais possuem ensino superior ou pós-graduação apresentam, em média, melhores resultados.
+Mesmo ao cruzar com outros fatores, a escolaridade familiar permanece um fator estrutural relevante.
+Embora não seja determinante isolado, a escolaridade dos pais influencia significativamente o desempenho escolar.
 
 Tecnologias e Ferramentas Utilizadas:
 
@@ -59,6 +59,7 @@ NumPy – Operações numéricas
 Power BI – Visualização final e geração de insights
 
 Estrutura do Repositório:
+
 ├── Projeto_Integrador_AD_Senac.ipynb   # Notebook com ETL e análise exploratória
 ├── Student_Performance.csv             # Dataset original
 ├── Student_Performance_Clean.csv       # Dataset tratado
